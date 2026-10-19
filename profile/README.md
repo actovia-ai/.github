@@ -22,4 +22,4 @@ Actovia is a cross-platform desktop app that runs a full local backend on your c
 - Download: https://github.com/actovia-ai/actovia/releases/latest
 - License: MIT
 
-Actovia — act + via: the way of acting. Formerly Exodus.
+Actovia — act + via: the way of acting.
