@@ -14,7 +14,7 @@ Actovia is a cross-platform desktop app that runs a full local backend on your c
 | [`ios`](https://github.com/actovia-ai/ios) | The iPhone companion (SwiftUI), paired over your LAN |
 | [`cli`](https://github.com/actovia-ai/cli) | `@actovia-ai/cli` — the `actovia` command: launch the app, manage skills from skills.sh, self-update |
 | [`homepage`](https://github.com/actovia-ai/homepage) | The website, [actovia.yancey.app](https://actovia.yancey.app) |
-| [`skills.md-bff`](https://github.com/actovia-ai/skills.md-bff) | The skills.sh relay |
+| [`skills.sh-bff`](https://github.com/actovia-ai/skills.sh-bff) | The skills.sh relay |
 
 ## Links
 
